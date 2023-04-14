@@ -17,7 +17,7 @@ For other operating systems, please refer to the official Allegro website for in
 
 **Clone the repository:**
 
-git clone https://github.com/schihwa/Tetris.git
+git clone https://github.com/schihwa/Tetris-clone.git
 
 Or, download the repository as a zip file and extract it.
 
