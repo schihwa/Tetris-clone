@@ -1,6 +1,3 @@
-# Ignore all files except for tetris.C, tetris.h, and mainMenu.c
-*
-!tetris.C
-!tetris.h
-!mainMenu.C
-
+bin/
+LICENSE
+test.c
