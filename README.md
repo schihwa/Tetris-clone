@@ -1,15 +1,12 @@
 
-![tetris-gif](https://media.giphy.com/media/f7STAwvEml1eIf0FEq/giphy.gifn")
+![Gif of a cat playing with a toy](https://media.giphy.com/media/f7STAwvEml1eIf0FEq/giphy.gif)
+
 
 # Simple tetris clone 
 
 This is a simple implementation of the classic Tetris game using the Allegro library in C programming language.
 
-**Requirements
-
-
-
-**
+**Requirements**
 
 * Allegro 5 library (required)
 
@@ -17,8 +14,8 @@ This is a simple implementation of the classic Tetris game using the Allegro lib
 
 * make - build tool (optional)
 
-***
-**Installation**
+
+## Installation
 
 
 1) Install Allegro 5 library. This can be done on Ubuntu-based systems by running     the following command in terminal:
@@ -39,8 +36,8 @@ or
 
 ``` make```
 
-***
-****Usage****
+
+## Usage
 
 Use the arrow keys to move the tetromino pieces left and right.
 Use the up arrow key to rotate the piece.
@@ -48,6 +45,6 @@ Use the down arrow key to move the piece down faster.
 Press the space bar to pause or resume the game.
 ***
 
-****Contributing****
+## Contributing
 
 Contributions to this project are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository.
